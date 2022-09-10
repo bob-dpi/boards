@@ -1,0 +1,16 @@
+NET "CK50" LOC = "P6";
+NET "DONE" LOC = "P7";
+NET "PROG_B" LOC = "P8";
+NET "INIT_B" LOC = "P9";
+NET "nRXF" LOC = "P22";
+NET "RDWR_B" LOC = "P5";
+NET "nDONELED" LOC = "P10";
+NET "CCLK" LOC = "P2";
+NET "HSWAP" LOC = "P3";
+NET "CSI_B" LOC = "P13";
+NET "nRD" LOC = "P23";
+NET "M21" LOC = "P29";
+NET "PWR12" LOC = "P17";
+NET "nPWREN" LOC = "P18";
+NET "P5V" LOC = "P19";
+NET "CCLK2" LOC = "P31";

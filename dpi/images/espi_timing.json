@@ -1,0 +1,5 @@
+{signal: [
+  {name: 'D',   wave: 'x1....x0....x'},
+  {name: 'Clk', wave: '0.x1x0..x1x0.'},
+  {name: 'Q',   wave: '0.1.....0....'},
+]}
