@@ -6,7 +6,7 @@ prototyping area as well as pads for both TSSOP and SSOP surface mount
 chips.
 
 |<img src=espi.jpg height=240> |
-<img src=espi.png height=240> |
+<img src=espi_outline.png height=240> |
 
 **Features:** <br>
  \- Easily connects to most SPI chips<br>
