@@ -27,7 +27,7 @@
  *
  *        09 00 00 01 00 -- command values with a remaining data quantity of 0
  *
- *      Using dpdaemon, the following command would be used:
+ *      Using pcdaemon, the following command would be used:
  *
  *        echo > /dev/dp0/s00_avr_dpcore/portb 0x0020
  *

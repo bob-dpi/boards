@@ -305,7 +305,7 @@
 </symbols>
 <devicesets>
 <deviceset name="RT8288" prefix="IC" uservalue="yes">
-<description>4 Amp synchronous switching rgulator</description>
+<description>4 Amp synchronous switching regulator</description>
 <gates>
 <gate name="G$1" symbol="RT8288" x="0" y="0"/>
 </gates>

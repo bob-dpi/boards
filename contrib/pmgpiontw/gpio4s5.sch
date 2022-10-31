@@ -388,7 +388,7 @@
 <rectangle x1="6.096" y1="-0.254" x2="6.604" y2="0.254" layer="51"/>
 </package>
 <package name="TBLK-3.5X6">
-<description>Termanal block, 5.3mm, 6 position</description>
+<description>Terminal block, 5.3mm, 6 position</description>
 <pad name="1" x="-8.68" y="-0.04" drill="1.2" shape="long" rot="R90"/>
 <wire x1="-10.43" y1="-3.82" x2="10.52" y2="-3.82" width="0.254" layer="21"/>
 <wire x1="10.52" y1="-3.82" x2="10.52" y2="3.75" width="0.254" layer="21"/>
